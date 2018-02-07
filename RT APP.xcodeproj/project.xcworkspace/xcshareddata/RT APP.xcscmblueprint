@@ -1,0 +1,53 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "21c762ea-715a-ca4f-a92b-db66ba873796++1688",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "21c762ea-715a-ca4f-a92b-db66ba873796++1688" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "55011AEBD444630C0E9DF47BD2E18FDBBDCC285D" : 0,
+    "13B1A605490D0C3F6CD25E9A370DE4AFBED72BC7" : 0,
+    "21c762ea-715a-ca4f-a92b-db66ba873796++9131" : 0,
+    "0F82FB368E97B132DE36A909C07919A72671B99F" : 0,
+    "21c762ea-715a-ca4f-a92b-db66ba873796++1688" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "1F67F92C-20F1-466D-B457-1CEE05F58987",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "55011AEBD444630C0E9DF47BD2E18FDBBDCC285D" : "Documents\/ANI_PROJECTS\/encrypted-core-data\/vendor\/sqlcipher",
+    "13B1A605490D0C3F6CD25E9A370DE4AFBED72BC7" : "RapApp27",
+    "21c762ea-715a-ca4f-a92b-db66ba873796++9131" : "RT_SVN",
+    "0F82FB368E97B132DE36A909C07919A72671B99F" : "field-rt%202\/",
+    "21c762ea-715a-ca4f-a92b-db66ba873796++1688" : "FieldRT\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "RT APP",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "RT APP.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/farisolusa\/field-rt.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0F82FB368E97B132DE36A909C07919A72671B99F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/repo.a1technology.in\/svn\/SleepCare",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "13B1A605490D0C3F6CD25E9A370DE4AFBED72BC7"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/repo.mobileprogramming.com\/svn\/SleepCare",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "21c762ea-715a-ca4f-a92b-db66ba873796++1688"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/repo.a1technology.in\/svn\/SleepCare",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "21c762ea-715a-ca4f-a92b-db66ba873796++9131"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/sqlcipher\/sqlcipher.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "55011AEBD444630C0E9DF47BD2E18FDBBDCC285D"
+    }
+  ]
+}

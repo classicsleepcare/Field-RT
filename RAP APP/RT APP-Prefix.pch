@@ -1,0 +1,34 @@
+//
+//  Prefix header
+//
+//  The contents of this file are implicitly included at the beginning of every source file.
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_5_0
+#warning "This project uses features only available in iOS SDK 5.0 and later."
+#endif
+
+#ifdef __OBJC__
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+#import <QuartzCore/CATransform3D.h>
+#import "WebserviceClass.h"
+#import "WebserviceURL.h"
+#import "AppDelegate.h"
+//#import <UIKit/UIKit.h>
+
+#define kTextSearchNotificationName @"kSearchNotificationName"
+//http://dod.classicsleepcare.com:8069/
+//http://209.160.65.49:1012/WebServices/
+
+#define IS_IOS7     [[[UIDevice currentDevice] systemVersion] floatValue] >= 7
+#define RT_ID       [[NSUserDefaults standardUserDefaults] valueForKey:@"RT_ID"]
+#define RT_NAME     [[NSUserDefaults standardUserDefaults] valueForKey:@"RT_NAME"]
+
+//#define NSLog
+
+#define NSLog if (1)NSLog // 1=ON, 0=OFF
+
+#endif

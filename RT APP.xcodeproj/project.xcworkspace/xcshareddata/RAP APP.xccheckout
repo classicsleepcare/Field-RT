@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>28099C2C-E128-4A2E-8367-29159BA5ADCD</string>
+	<key>IDESourceControlProjectName</key>
+	<string>RAP APP</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>13B1A605490D0C3F6CD25E9A370DE4AFBED72BC7</key>
+		<string>https://github.com/arn2407/Latest-Rep-App.git</string>
+		<key>9A8FBFB2-A3A6-4A21-BAB6-E3BCB14C5B97</key>
+		<string>https://github.com/arn2407/Latest-Rep-App.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>RAP APP.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>13B1A605490D0C3F6CD25E9A370DE4AFBED72BC7</key>
+		<string>../..</string>
+		<key>9A8FBFB2-A3A6-4A21-BAB6-E3BCB14C5B97</key>
+		<string>../../../Latest-Rep-App</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/arn2407/Latest-Rep-App.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>13B1A605490D0C3F6CD25E9A370DE4AFBED72BC7</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9A8FBFB2-A3A6-4A21-BAB6-E3BCB14C5B97</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Latest-Rep-App</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>13B1A605490D0C3F6CD25E9A370DE4AFBED72BC7</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Latest%20Rep%20App%202%202%202</string>
+		</dict>
+	</array>
+</dict>
+</plist>
