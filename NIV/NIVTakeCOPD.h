@@ -47,6 +47,6 @@
 
 @property (nonatomic, strong) NSMutableDictionary *formData;
 @property (nonatomic, strong) NSMutableDictionary *prevFormData;
-
+@property (strong, nonatomic) NSDictionary *dict_retrivedData, *dict_retrivedData_local;
 
 @end

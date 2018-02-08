@@ -13,7 +13,7 @@
 @end
 
 @implementation NIVPatientDis
-@synthesize formData;
+@synthesize formData, dict_retrivedData, dict_retrivedData_local;
 
 - (void)viewDidLoad {
     [super viewDidLoad];

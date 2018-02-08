@@ -13,7 +13,7 @@
 @end
 
 @implementation NIVNewPatientProfile
-@synthesize formData;
+@synthesize formData, dict_retrivedData, dict_retrivedData_local;
 
 - (void)viewDidLoad {
     [super viewDidLoad];
